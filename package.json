@@ -1,6 +1,6 @@
 {
-  "name": "react-web-animation",
-  "version": "0.0.0-development",
+  "name": "@marionebl/react-web-animation",
+  "version": "0.7.1",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
